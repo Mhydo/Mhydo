@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
-### My name is Mateus, i'm 21 and  Systems analysis and development student on UNIP
+### My name is Mateus, i'm 22 and  Systems analysis and development student on UNIP
 
-i'm learning c# and fundamentals tools to become a backend developer
+i'm learning Java and fundamentals tools to become a backend developer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhydo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhydo&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
